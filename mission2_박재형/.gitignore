@@ -1,0 +1,12 @@
+# 데이터 폴더 제외
+res/297.SNS 데이터 고도화/
+
+# Python 관련
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 시스템 파일
+.DS_Store
+.claude/
