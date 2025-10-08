@@ -33,3 +33,7 @@ ENV/
 build/
 dist/
 *.egg-info/
+
+# Mission4 specific - RAG data files
+mission4_박재형/res/rag-ko/
+mission4_박재형/res/*.pkl
