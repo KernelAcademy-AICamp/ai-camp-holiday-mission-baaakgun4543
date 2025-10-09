@@ -37,3 +37,8 @@ dist/
 # Mission4 specific - RAG data files
 mission4_박재형/res/rag-ko/
 mission4_박재형/res/*.pkl
+
+# Mission5 specific
+mission5_박재형/.gradio/
+mission5_박재형/.claude/
+mission5_박재형/chat/.gradio/
